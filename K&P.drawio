@@ -1,78 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T07:33:31.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jWGo1o6lgSnvrvjB3ihj" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T19:55:44.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AYyI3Du7RR5DYHt5T7pa" version="22.1.7" type="github">
   <diagram name="Halaman-1" id="tqDfvmga2qRxj1xkp8AS">
-    <mxGraphModel dx="1222" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zEaP6irVrBIb3QhL-vas-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-1" target="zEaP6irVrBIb3QhL-vas-20">
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-1" target="fhTAvq2OmSkOmTGTV9Ks-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="-80" width="76" height="40" as="geometry" />
+        <mxCell id="zEaP6irVrBIb3QhL-vas-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="338" y="-190" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-2">
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-2" target="zEaP6irVrBIb3QhL-vas-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEaP6irVrBIb3QhL-vas-2" value="output a= 10 m/s" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="309.5" y="290" width="133" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-4" target="zEaP6irVrBIb3QhL-vas-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEaP6irVrBIb3QhL-vas-4" value="a= s/t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="311" y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zEaP6irVrBIb3QhL-vas-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="547" y="330" />
-              <mxPoint x="547" y="330" />
-              <mxPoint x="547" y="400" />
-            </Array>
+            <mxPoint x="625" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-2" value="Input = 4 m/s" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="480" y="165" width="133" height="40" as="geometry" />
+        <mxCell id="zEaP6irVrBIb3QhL-vas-7" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="338" y="450" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-3" target="zEaP6irVrBIb3QhL-vas-21">
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-13" target="zEaP6irVrBIb3QhL-vas-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-3" value="v= 8 m/s + (4 m/s^2*6s)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="420" width="136" height="60" as="geometry" />
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-13" target="zEaP6irVrBIb3QhL-vas-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-4">
+        <mxCell id="zEaP6irVrBIb3QhL-vas-13" value="a= 100/10" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="296" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="175" y="400" />
-              <mxPoint x="350" y="400" />
-            </Array>
+            <mxPoint x="625" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-4" value="input v= 8ms" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="165" width="130" height="40" as="geometry" />
+        <mxCell id="zEaP6irVrBIb3QhL-vas-20" value="v= u+at" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-6" target="zEaP6irVrBIb3QhL-vas-3">
+        <mxCell id="zEaP6irVrBIb3QhL-vas-21" value="output v= 1 m/s^2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="557" y="370" width="136" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fhTAvq2OmSkOmTGTV9Ks-3" target="zEaP6irVrBIb3QhL-vas-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-6" value="input t = 6 s" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="320" width="136" height="40" as="geometry" />
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-3" value="Mencari kecepatan&lt;br&gt;dan percepatan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="308" y="-100" width="136" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-7" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="324" y="600" width="76" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-13" target="zEaP6irVrBIb3QhL-vas-2">
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-21" target="zEaP6irVrBIb3QhL-vas-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-13" target="zEaP6irVrBIb3QhL-vas-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-13" target="zEaP6irVrBIb3QhL-vas-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-13" value="v= kecepatan&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;a= percepatan&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;t= waktu" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="272" y="100" width="178" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-20" target="zEaP6irVrBIb3QhL-vas-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-20" value="v= u+at" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296" y="10" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zEaP6irVrBIb3QhL-vas-21" target="zEaP6irVrBIb3QhL-vas-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zEaP6irVrBIb3QhL-vas-21" value="output v= 32 m/s" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="530" width="136" height="40" as="geometry" />
+        <mxCell id="fhTAvq2OmSkOmTGTV9Ks-15" value="v= (15 m/s-10 m/s)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;/5s" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
